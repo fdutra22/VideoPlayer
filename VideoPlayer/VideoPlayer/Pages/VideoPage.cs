@@ -10,7 +10,7 @@ namespace VideoPlayer.Pages
 
 		public VideoPage()
 		{
-			UrlCamera.Url = "rtsp://admin:admin@engenharianewline.dyndns.org:554/cam/realmonitor?channel=1&subtype=1";
+			UrlCamera.Url = "rtsp://admin:admin@192.168.1.28:554/cam/realmonitor?channel=1&subtype=1";
 		}
 
 
